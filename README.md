@@ -9,9 +9,9 @@
 ## Instructions
 
 1. Clone the project repository:
-   `git clone https://github.com/AlterClassIO/react-firechat`
+   `git clone https://github.com/madesh-ops/newgitmadesh.git`
 
-2. Navigate to the project folder: `cd react-firechat`
+2. Navigate to the project folder: `cd newgitmadesh`
 
 3. Install the dependencies: `npm install`
 
