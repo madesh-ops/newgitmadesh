@@ -94,13 +94,6 @@ const Channel = ({ user = null }) => {
             disabled={!newMessage}
             className="uppercase font-semibold text-sm tracking-wider text-gray-500 hover:text-gray-900 dark:hover:text-white transition-colors"
           >
-            Upload
-          </button>
-          <button
-            type="submit"
-            disabled={!newMessage}
-            className="uppercase font-semibold text-sm tracking-wider text-gray-500 hover:text-gray-900 dark:hover:text-white transition-colors"
-          >
             Send
           </button>
         </form>
