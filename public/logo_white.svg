@@ -1,0 +1,11 @@
+<svg width="337" height="112" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="49.5" rx="50" id="svg_1" cy="55.5" cx="51" stroke="#000" fill="#ffff00"/>
+  <ellipse ry="4.5" rx="5" id="svg_3" cy="34.5" cx="67" stroke="#000" fill="#000000"/>
+  <ellipse ry="4.5" rx="5" id="svg_5" cy="35.5" cx="34" stroke="#000" fill="#000000"/>
+  <path d="m33,70c1,0 1.61731,0.07611 2,1c0.5412,1.30655 1.29289,1.29291 2,2c0.70711,0.70709 0.69344,2.4588 2,3c1.84776,0.76538 2.69344,0.4588 4,1c0.92387,0.38269 2,1 3,1c1,0 2,1 3,1c1,0 2,0 3,0c1,0 2,0 3,0c1,0 2,0 3,0c1,0 2,0 3,0c1,0 2,0 3,0c1,0 2,0 3,-1c1,-1 0.69344,-2.4588 2,-3c0.92387,-0.38269 0.23463,-1.15225 1,-3c0.5412,-1.30655 0.29289,-2.29291 1,-3c0.70711,-0.70709 1,-1 2,-3l0,-1l1,0" id="svg_8" stroke="#000" fill="none"/>
+  <text transform="matrix(2.05938 0 0 2.57105 -392.692 -403.327)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Crimson Pro'" font-size="24" stroke-width="0" id="svg_9" y="184.93236" x="251.1672" fill="#ffffff">ChatCord</text>
+ </g>
+</svg>
